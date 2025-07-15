@@ -8,7 +8,7 @@ Built with **React** and **Tailwind CSS**, the app showcases practical use of mo
 
 ## 🚀 Live Demo
 
-🔗 [Live Link (Netlify)](https://smart-portfolio.netlify.app)
+🔗 [Live Link (Netlify)](https://smart-investment-portfolio.netlify.app)
 
 ---
 
